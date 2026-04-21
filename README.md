@@ -13,7 +13,8 @@ This project is a React-based Live Input Preview application that demonstrates c
 
 ## ✨ Features
 - ⌨️ Real-time text preview while typing  
-- 🔢 Live character count  
+- 🔢 Live character count
+- 🎯 Reset Button to clear input
 - 🎯 Controlled input handling  
 - 🎨 Clean and responsive UI  
 
