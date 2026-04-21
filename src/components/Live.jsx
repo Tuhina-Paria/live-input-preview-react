@@ -28,6 +28,13 @@ const Live = () => {
   Characters: {text.length}
 </p>
         </div>
+
+         <button
+            onClick={() => setText("")}
+            className="bg-purple-500 hover:bg-purple-600 text-white px-5 py-2 mt-4 rounded-lg transition transform hover:scale-105"
+          >
+            Reset
+          </button>
        
       </div>
 
